@@ -7,12 +7,11 @@ __pycache__/
 *.xdv
 build/
 submission*.zip
-# 课程原始数据保留在本地，复现时放入 data/。
-data/*.csv
 实验一要求.pdf
 
-# GitHub 只保留代码、依赖和说明。
+# 生成结果与报告在本地保留。
 results/
 prediction.csv
 report.pdf
 report.tex
+
