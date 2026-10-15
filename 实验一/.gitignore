@@ -1,0 +1,18 @@
+__pycache__/
+.venv/
+.DS_Store
+*.aux
+*.log
+*.out
+*.xdv
+build/
+submission*.zip
+# 课程原始数据保留在本地，复现时放入 data/。
+data/*.csv
+实验一要求.pdf
+
+# GitHub 只保留代码、依赖和说明。
+results/
+prediction.csv
+report.pdf
+report.tex
