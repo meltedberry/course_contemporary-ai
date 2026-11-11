@@ -7,23 +7,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 161,
-      "ms": 0.4984
+      "ms": 0.5112
     },
     {
       "n": 15,
       "seed": 150000,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 114,
-      "ms": 0.4047
+      "ms": 0.407
     },
     {
       "n": 15,
       "seed": 150000,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 41,
-      "ms": 0.1893
+      "ms": 0.1898
     },
     {
       "n": 15,
@@ -31,23 +31,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 160,
-      "ms": 0.5041
+      "ms": 0.5081
     },
     {
       "n": 15,
       "seed": 150001,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 127,
-      "ms": 0.4445
+      "ms": 0.445
     },
     {
       "n": 15,
       "seed": 150001,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 67,
-      "ms": 0.2762
+      "ms": 0.2899
     },
     {
       "n": 15,
@@ -55,23 +55,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 173,
-      "ms": 0.5532
+      "ms": 0.5503
     },
     {
       "n": 15,
       "seed": 150003,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 123,
-      "ms": 0.4213
+      "ms": 0.4254
     },
     {
       "n": 15,
       "seed": 150003,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 37,
-      "ms": 0.1757
+      "ms": 0.1776
     },
     {
       "n": 15,
@@ -79,23 +79,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 111,
-      "ms": 0.3606
+      "ms": 0.3697
     },
     {
       "n": 15,
       "seed": 150005,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 86,
-      "ms": 0.3024
+      "ms": 0.3098
     },
     {
       "n": 15,
       "seed": 150005,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 41,
-      "ms": 0.1839
+      "ms": 0.1879
     },
     {
       "n": 15,
@@ -103,23 +103,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 173,
-      "ms": 0.5457
+      "ms": 0.5432
     },
     {
       "n": 15,
       "seed": 150006,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 78,
-      "ms": 0.2889
+      "ms": 0.2936
     },
     {
       "n": 15,
       "seed": 150006,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 40,
-      "ms": 0.1883
+      "ms": 0.1962
     },
     {
       "n": 15,
@@ -127,23 +127,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 168,
-      "ms": 0.5473
+      "ms": 0.5324
     },
     {
       "n": 15,
       "seed": 150008,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 114,
-      "ms": 0.4096
+      "ms": 0.4095
     },
     {
       "n": 15,
       "seed": 150008,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 73,
-      "ms": 0.2988
+      "ms": 0.3014
     },
     {
       "n": 15,
@@ -151,23 +151,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 171,
-      "ms": 0.5363
+      "ms": 0.537
     },
     {
       "n": 15,
       "seed": 150009,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 126,
-      "ms": 0.4344
+      "ms": 0.4338
     },
     {
       "n": 15,
       "seed": 150009,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 47,
-      "ms": 0.2082
+      "ms": 0.2073
     },
     {
       "n": 15,
@@ -175,23 +175,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 145,
-      "ms": 0.4722
+      "ms": 0.4673
     },
     {
       "n": 15,
       "seed": 150010,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 76,
-      "ms": 0.2801
+      "ms": 0.2802
     },
     {
       "n": 15,
       "seed": 150010,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 42,
-      "ms": 0.1858
+      "ms": 0.1863
     },
     {
       "n": 15,
@@ -199,23 +199,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 174,
-      "ms": 0.5692
+      "ms": 0.5533
     },
     {
       "n": 15,
       "seed": 150011,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 136,
-      "ms": 0.4746
+      "ms": 0.4688
     },
     {
       "n": 15,
       "seed": 150011,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 48,
-      "ms": 0.2096
+      "ms": 0.208
     },
     {
       "n": 15,
@@ -223,23 +223,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 181,
-      "ms": 0.5764
+      "ms": 0.5721
     },
     {
       "n": 15,
       "seed": 150012,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 117,
-      "ms": 0.4187
+      "ms": 0.4129
     },
     {
       "n": 15,
       "seed": 150012,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 50,
-      "ms": 0.2218
+      "ms": 0.2181
     },
     {
       "n": 15,
@@ -247,23 +247,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 172,
-      "ms": 0.5482
+      "ms": 0.5337
     },
     {
       "n": 15,
       "seed": 150013,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 144,
-      "ms": 0.504
+      "ms": 0.4897
     },
     {
       "n": 15,
       "seed": 150013,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 59,
-      "ms": 0.2595
+      "ms": 0.2549
     },
     {
       "n": 15,
@@ -271,23 +271,23 @@
       "mode": "Dijkstra",
       "cost": 38,
       "expanded": 166,
-      "ms": 0.5227
+      "ms": 0.5173
     },
     {
       "n": 15,
       "seed": 150014,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 38,
       "expanded": 125,
-      "ms": 0.4244
+      "ms": 0.4231
     },
     {
       "n": 15,
       "seed": 150014,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 38,
       "expanded": 119,
-      "ms": 0.4379
+      "ms": 0.4333
     },
     {
       "n": 15,
@@ -295,23 +295,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 169,
-      "ms": 0.5358
+      "ms": 0.531
     },
     {
       "n": 15,
       "seed": 150015,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 101,
-      "ms": 0.3665
+      "ms": 0.3561
     },
     {
       "n": 15,
       "seed": 150015,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 51,
-      "ms": 0.2223
+      "ms": 0.2188
     },
     {
       "n": 15,
@@ -319,23 +319,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 156,
-      "ms": 0.4792
+      "ms": 0.4714
     },
     {
       "n": 15,
       "seed": 150016,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 89,
-      "ms": 0.424
+      "ms": 0.3143
     },
     {
       "n": 15,
       "seed": 150016,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 37,
-      "ms": 0.2891
+      "ms": 0.1716
     },
     {
       "n": 15,
@@ -343,23 +343,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 176,
-      "ms": 0.5633
+      "ms": 0.5522
     },
     {
       "n": 15,
       "seed": 150017,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 146,
-      "ms": 0.5107
+      "ms": 0.4974
     },
     {
       "n": 15,
       "seed": 150017,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 54,
-      "ms": 0.2359
+      "ms": 0.2321
     },
     {
       "n": 15,
@@ -367,23 +367,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 129,
-      "ms": 0.4116
+      "ms": 0.4062
     },
     {
       "n": 15,
       "seed": 150018,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 65,
-      "ms": 0.2495
+      "ms": 0.2485
     },
     {
       "n": 15,
       "seed": 150018,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 37,
-      "ms": 0.1708
+      "ms": 0.1692
     },
     {
       "n": 15,
@@ -391,23 +391,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 177,
-      "ms": 0.5647
+      "ms": 0.5572
     },
     {
       "n": 15,
       "seed": 150019,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 144,
-      "ms": 0.5111
+      "ms": 0.5028
     },
     {
       "n": 15,
       "seed": 150019,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 69,
-      "ms": 0.2847
+      "ms": 0.2821
     },
     {
       "n": 15,
@@ -415,23 +415,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 185,
-      "ms": 0.5993
+      "ms": 0.6069
     },
     {
       "n": 15,
       "seed": 150020,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 105,
-      "ms": 0.3874
+      "ms": 0.3967
     },
     {
       "n": 15,
       "seed": 150020,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 31,
-      "ms": 0.1637
+      "ms": 0.1655
     },
     {
       "n": 15,
@@ -439,23 +439,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 174,
-      "ms": 0.5456
+      "ms": 0.552
     },
     {
       "n": 15,
       "seed": 150021,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 136,
-      "ms": 0.4712
+      "ms": 0.5045
     },
     {
       "n": 15,
       "seed": 150021,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 75,
-      "ms": 0.2992
+      "ms": 0.3017
     },
     {
       "n": 15,
@@ -463,23 +463,23 @@
       "mode": "Dijkstra",
       "cost": 28,
       "expanded": 167,
-      "ms": 0.5202
+      "ms": 0.5262
     },
     {
       "n": 15,
       "seed": 150023,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 28,
       "expanded": 98,
-      "ms": 0.3468
+      "ms": 0.3492
     },
     {
       "n": 15,
       "seed": 150023,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 28,
       "expanded": 35,
-      "ms": 0.1711
+      "ms": 0.1734
     },
     {
       "n": 25,
@@ -487,23 +487,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 480,
-      "ms": 1.5744
+      "ms": 1.6296
     },
     {
       "n": 25,
       "seed": 250002,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 352,
-      "ms": 1.2907
+      "ms": 1.2775
     },
     {
       "n": 25,
       "seed": 250002,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 101,
-      "ms": 0.4993
+      "ms": 0.4954
     },
     {
       "n": 25,
@@ -511,23 +511,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 434,
-      "ms": 1.4205
+      "ms": 1.42
     },
     {
       "n": 25,
       "seed": 250004,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 275,
-      "ms": 1.0096
+      "ms": 1.0027
     },
     {
       "n": 25,
       "seed": 250004,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 67,
-      "ms": 0.3703
+      "ms": 0.366
     },
     {
       "n": 25,
@@ -535,23 +535,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 470,
-      "ms": 1.5371
+      "ms": 1.5081
     },
     {
       "n": 25,
       "seed": 250005,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 247,
-      "ms": 0.938
+      "ms": 0.9221
     },
     {
       "n": 25,
       "seed": 250005,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 143,
-      "ms": 0.6465
+      "ms": 0.638
     },
     {
       "n": 25,
@@ -559,23 +559,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 474,
-      "ms": 1.538
+      "ms": 1.5172
     },
     {
       "n": 25,
       "seed": 250006,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 253,
-      "ms": 0.9511
+      "ms": 0.9365
     },
     {
       "n": 25,
       "seed": 250006,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 56,
-      "ms": 0.3466
+      "ms": 0.34
     },
     {
       "n": 25,
@@ -583,23 +583,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 470,
-      "ms": 1.5279
+      "ms": 1.5062
     },
     {
       "n": 25,
       "seed": 250008,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 266,
-      "ms": 0.9806
+      "ms": 0.9689
     },
     {
       "n": 25,
       "seed": 250008,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 96,
-      "ms": 0.4693
+      "ms": 0.4614
     },
     {
       "n": 25,
@@ -607,23 +607,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 472,
-      "ms": 1.5429
+      "ms": 1.5171
     },
     {
       "n": 25,
       "seed": 250009,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 328,
-      "ms": 1.2137
+      "ms": 1.1825
     },
     {
       "n": 25,
       "seed": 250009,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 74,
-      "ms": 0.4153
+      "ms": 0.4065
     },
     {
       "n": 25,
@@ -631,23 +631,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 448,
-      "ms": 1.4704
+      "ms": 1.4306
     },
     {
       "n": 25,
       "seed": 250012,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 290,
-      "ms": 1.0753
+      "ms": 1.0672
     },
     {
       "n": 25,
       "seed": 250012,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 68,
-      "ms": 0.3802
+      "ms": 0.3793
     },
     {
       "n": 25,
@@ -655,23 +655,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 467,
-      "ms": 1.4967
+      "ms": 1.4914
     },
     {
       "n": 25,
       "seed": 250013,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 312,
-      "ms": 1.1088
+      "ms": 1.1033
     },
     {
       "n": 25,
       "seed": 250013,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 123,
-      "ms": 0.5591
+      "ms": 0.5525
     },
     {
       "n": 25,
@@ -679,23 +679,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 452,
-      "ms": 1.4824
+      "ms": 1.4429
     },
     {
       "n": 25,
       "seed": 250014,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 276,
-      "ms": 1.0127
+      "ms": 0.9884
     },
     {
       "n": 25,
       "seed": 250014,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 166,
-      "ms": 0.7163
+      "ms": 0.7151
     },
     {
       "n": 25,
@@ -703,23 +703,23 @@
       "mode": "Dijkstra",
       "cost": 50,
       "expanded": 457,
-      "ms": 1.4697
+      "ms": 1.4577
     },
     {
       "n": 25,
       "seed": 250015,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 50,
       "expanded": 266,
-      "ms": 0.9873
+      "ms": 0.9855
     },
     {
       "n": 25,
       "seed": 250015,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 50,
       "expanded": 55,
-      "ms": 0.338
+      "ms": 0.3407
     },
     {
       "n": 25,
@@ -727,23 +727,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 467,
-      "ms": 1.5092
+      "ms": 1.5124
     },
     {
       "n": 25,
       "seed": 250016,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 210,
-      "ms": 0.8156
+      "ms": 0.799
     },
     {
       "n": 25,
       "seed": 250016,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 62,
-      "ms": 0.3511
+      "ms": 0.3518
     },
     {
       "n": 25,
@@ -751,23 +751,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 441,
-      "ms": 1.4239
+      "ms": 1.3974
     },
     {
       "n": 25,
       "seed": 250018,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 104,
-      "ms": 0.4711
+      "ms": 0.4634
     },
     {
       "n": 25,
       "seed": 250018,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 74,
-      "ms": 0.3969
+      "ms": 0.3912
     },
     {
       "n": 25,
@@ -775,23 +775,23 @@
       "mode": "Dijkstra",
       "cost": 52,
       "expanded": 450,
-      "ms": 1.4727
+      "ms": 1.461
     },
     {
       "n": 25,
       "seed": 250019,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 52,
       "expanded": 278,
-      "ms": 1.0092
+      "ms": 1.0242
     },
     {
       "n": 25,
       "seed": 250019,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 52,
       "expanded": 154,
-      "ms": 0.6652
+      "ms": 0.6698
     },
     {
       "n": 25,
@@ -799,23 +799,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 466,
-      "ms": 1.4901
+      "ms": 1.5775
     },
     {
       "n": 25,
       "seed": 250020,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 218,
-      "ms": 0.8303
+      "ms": 0.8117
     },
     {
       "n": 25,
       "seed": 250020,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 69,
-      "ms": 0.3771
+      "ms": 0.3713
     },
     {
       "n": 25,
@@ -823,23 +823,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 478,
-      "ms": 1.5568
+      "ms": 1.5282
     },
     {
       "n": 25,
       "seed": 250021,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 313,
-      "ms": 1.1245
+      "ms": 1.1234
     },
     {
       "n": 25,
       "seed": 250021,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 54,
-      "ms": 0.3586
+      "ms": 0.3324
     },
     {
       "n": 25,
@@ -847,23 +847,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 470,
-      "ms": 1.5114
+      "ms": 1.5087
     },
     {
       "n": 25,
       "seed": 250023,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 314,
-      "ms": 1.1412
+      "ms": 1.1439
     },
     {
       "n": 25,
       "seed": 250023,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 76,
-      "ms": 0.4139
+      "ms": 0.4079
     },
     {
       "n": 25,
@@ -871,23 +871,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 468,
-      "ms": 1.5176
+      "ms": 1.5048
     },
     {
       "n": 25,
       "seed": 250026,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 268,
-      "ms": 0.9862
+      "ms": 0.9821
     },
     {
       "n": 25,
       "seed": 250026,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 119,
-      "ms": 0.5517
+      "ms": 0.5589
     },
     {
       "n": 25,
@@ -895,23 +895,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 451,
-      "ms": 1.4556
+      "ms": 1.4546
     },
     {
       "n": 25,
       "seed": 250027,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 201,
-      "ms": 0.7848
+      "ms": 0.771
     },
     {
       "n": 25,
       "seed": 250027,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 66,
-      "ms": 0.3852
+      "ms": 0.3721
     },
     {
       "n": 25,
@@ -919,23 +919,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 438,
-      "ms": 1.4295
+      "ms": 1.412
     },
     {
       "n": 25,
       "seed": 250029,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 313,
-      "ms": 1.1511
+      "ms": 1.1127
     },
     {
       "n": 25,
       "seed": 250029,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 55,
-      "ms": 0.3416
+      "ms": 0.3332
     },
     {
       "n": 25,
@@ -943,23 +943,23 @@
       "mode": "Dijkstra",
       "cost": 48,
       "expanded": 478,
-      "ms": 1.5409
+      "ms": 1.5085
     },
     {
       "n": 25,
       "seed": 250030,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 48,
       "expanded": 222,
-      "ms": 0.8536
+      "ms": 0.8444
     },
     {
       "n": 25,
       "seed": 250030,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 48,
       "expanded": 52,
-      "ms": 0.3346
+      "ms": 0.3299
     },
     {
       "n": 35,
@@ -967,23 +967,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 924,
-      "ms": 3.0632
+      "ms": 3.0043
     },
     {
       "n": 35,
       "seed": 350000,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 488,
-      "ms": 1.8816
+      "ms": 1.8345
     },
     {
       "n": 35,
       "seed": 350000,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 131,
-      "ms": 0.7568
+      "ms": 0.7374
     },
     {
       "n": 35,
@@ -991,23 +991,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 915,
-      "ms": 2.9818
+      "ms": 2.9551
     },
     {
       "n": 35,
       "seed": 350001,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 472,
-      "ms": 1.7656
+      "ms": 1.7748
     },
     {
       "n": 35,
       "seed": 350001,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 127,
-      "ms": 0.7143
+      "ms": 0.7053
     },
     {
       "n": 35,
@@ -1015,23 +1015,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 885,
-      "ms": 2.8914
+      "ms": 2.8215
     },
     {
       "n": 35,
       "seed": 350002,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 482,
-      "ms": 1.8317
+      "ms": 1.8106
     },
     {
       "n": 35,
       "seed": 350002,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 144,
-      "ms": 0.7864
+      "ms": 0.7782
     },
     {
       "n": 35,
@@ -1039,23 +1039,23 @@
       "mode": "Dijkstra",
       "cost": 70,
       "expanded": 920,
-      "ms": 2.9936
+      "ms": 2.9796
     },
     {
       "n": 35,
       "seed": 350003,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 70,
       "expanded": 321,
-      "ms": 1.3012
+      "ms": 1.3003
     },
     {
       "n": 35,
       "seed": 350003,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 70,
       "expanded": 123,
-      "ms": 0.7084
+      "ms": 0.7022
     },
     {
       "n": 35,
@@ -1063,23 +1063,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 895,
-      "ms": 2.9076
+      "ms": 2.8858
     },
     {
       "n": 35,
       "seed": 350004,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 354,
-      "ms": 1.4153
+      "ms": 1.4219
     },
     {
       "n": 35,
       "seed": 350004,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 176,
-      "ms": 0.8865
+      "ms": 0.8905
     },
     {
       "n": 35,
@@ -1087,23 +1087,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 922,
-      "ms": 3.0228
+      "ms": 3.0704
     },
     {
       "n": 35,
       "seed": 350005,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 387,
-      "ms": 1.5366
+      "ms": 1.522
     },
     {
       "n": 35,
       "seed": 350005,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 110,
-      "ms": 0.6866
+      "ms": 0.6593
     },
     {
       "n": 35,
@@ -1111,23 +1111,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 924,
-      "ms": 2.9987
+      "ms": 3.0804
     },
     {
       "n": 35,
       "seed": 350006,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 527,
-      "ms": 1.9715
+      "ms": 2.1199
     },
     {
       "n": 35,
       "seed": 350006,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 159,
-      "ms": 0.8297
+      "ms": 0.8388
     },
     {
       "n": 35,
@@ -1135,23 +1135,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 912,
-      "ms": 2.9959
+      "ms": 2.9676
     },
     {
       "n": 35,
       "seed": 350007,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 465,
-      "ms": 1.7696
+      "ms": 1.7541
     },
     {
       "n": 35,
       "seed": 350007,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 75,
-      "ms": 0.5476
+      "ms": 0.5399
     },
     {
       "n": 35,
@@ -1159,23 +1159,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 911,
-      "ms": 3.0227
+      "ms": 2.9685
     },
     {
       "n": 35,
       "seed": 350008,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 464,
-      "ms": 1.7721
+      "ms": 1.7912
     },
     {
       "n": 35,
       "seed": 350008,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 212,
-      "ms": 1.052
+      "ms": 1.0476
     },
     {
       "n": 35,
@@ -1183,23 +1183,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 924,
-      "ms": 3.0982
+      "ms": 2.9996
     },
     {
       "n": 35,
       "seed": 350009,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 494,
-      "ms": 1.9251
+      "ms": 1.8551
     },
     {
       "n": 35,
       "seed": 350009,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 186,
-      "ms": 0.9522
+      "ms": 0.9213
     },
     {
       "n": 35,
@@ -1207,23 +1207,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 926,
-      "ms": 3.1345
+      "ms": 3.0158
     },
     {
       "n": 35,
       "seed": 350011,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 484,
-      "ms": 2.2437
+      "ms": 1.8162
     },
     {
       "n": 35,
       "seed": 350011,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 125,
-      "ms": 0.8935
+      "ms": 0.7048
     },
     {
       "n": 35,
@@ -1231,23 +1231,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 908,
-      "ms": 4.0321
+      "ms": 2.9831
     },
     {
       "n": 35,
       "seed": 350014,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 385,
-      "ms": 1.9654
+      "ms": 1.5122
     },
     {
       "n": 35,
       "seed": 350014,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 123,
-      "ms": 1.0485
+      "ms": 0.6981
     },
     {
       "n": 35,
@@ -1255,23 +1255,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 925,
-      "ms": 4.5176
+      "ms": 3.2872
     },
     {
       "n": 35,
       "seed": 350015,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 502,
-      "ms": 2.7051
+      "ms": 1.8941
     },
     {
       "n": 35,
       "seed": 350015,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 104,
-      "ms": 0.6636
+      "ms": 0.6365
     },
     {
       "n": 35,
@@ -1279,23 +1279,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 897,
-      "ms": 3.7278
+      "ms": 2.94
     },
     {
       "n": 35,
       "seed": 350019,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 399,
-      "ms": 1.6865
+      "ms": 1.5874
     },
     {
       "n": 35,
       "seed": 350019,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 129,
-      "ms": 0.9921
+      "ms": 0.7492
     },
     {
       "n": 35,
@@ -1303,23 +1303,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 899,
-      "ms": 4.1675
+      "ms": 2.9908
     },
     {
       "n": 35,
       "seed": 350020,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 393,
-      "ms": 2.2457
+      "ms": 1.5945
     },
     {
       "n": 35,
       "seed": 350020,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 168,
-      "ms": 0.9021
+      "ms": 0.8696
     },
     {
       "n": 35,
@@ -1327,23 +1327,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 927,
-      "ms": 3.5402
+      "ms": 3.3721
     },
     {
       "n": 35,
       "seed": 350022,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 485,
-      "ms": 2.7361
+      "ms": 1.9043
     },
     {
       "n": 35,
       "seed": 350022,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 92,
-      "ms": 0.8848
+      "ms": 0.6715
     },
     {
       "n": 35,
@@ -1351,23 +1351,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 932,
-      "ms": 4.5525
+      "ms": 3.3048
     },
     {
       "n": 35,
       "seed": 350023,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 563,
-      "ms": 3.1166
+      "ms": 2.1342
     },
     {
       "n": 35,
       "seed": 350023,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 187,
-      "ms": 1.2933
+      "ms": 0.9724
     },
     {
       "n": 35,
@@ -1375,23 +1375,23 @@
       "mode": "Dijkstra",
       "cost": 70,
       "expanded": 894,
-      "ms": 4.3763
+      "ms": 3.2123
     },
     {
       "n": 35,
       "seed": 350024,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 70,
       "expanded": 560,
-      "ms": 3.1022
+      "ms": 2.1622
     },
     {
       "n": 35,
       "seed": 350024,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 70,
       "expanded": 110,
-      "ms": 0.9359
+      "ms": 0.6314
     },
     {
       "n": 35,
@@ -1399,23 +1399,23 @@
       "mode": "Dijkstra",
       "cost": 70,
       "expanded": 912,
-      "ms": 4.7101
+      "ms": 3.3402
     },
     {
       "n": 35,
       "seed": 350026,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 70,
       "expanded": 850,
-      "ms": 4.5822
+      "ms": 3.0859
     },
     {
       "n": 35,
       "seed": 350026,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 70,
       "expanded": 646,
-      "ms": 3.9818
+      "ms": 2.569
     },
     {
       "n": 35,
@@ -1423,23 +1423,23 @@
       "mode": "Dijkstra",
       "cost": 68,
       "expanded": 896,
-      "ms": 4.7256
+      "ms": 2.9759
     },
     {
       "n": 35,
       "seed": 350028,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 68,
       "expanded": 326,
-      "ms": 2.1174
+      "ms": 1.4426
     },
     {
       "n": 35,
       "seed": 350028,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 68,
       "expanded": 112,
-      "ms": 1.037
+      "ms": 0.6769
     },
     {
       "n": 45,
@@ -1447,23 +1447,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1450,
-      "ms": 7.3838
+      "ms": 5.0735
     },
     {
       "n": 45,
       "seed": 450003,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 743,
-      "ms": 3.8773
+      "ms": 3.0835
     },
     {
       "n": 45,
       "seed": 450003,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 175,
-      "ms": 1.0761
+      "ms": 1.085
     },
     {
       "n": 45,
@@ -1471,23 +1471,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1504,
-      "ms": 6.9846
+      "ms": 5.2933
     },
     {
       "n": 45,
       "seed": 450004,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 635,
-      "ms": 3.7228
+      "ms": 2.4868
     },
     {
       "n": 45,
       "seed": 450004,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 182,
-      "ms": 1.5908
+      "ms": 1.0835
     },
     {
       "n": 45,
@@ -1495,23 +1495,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1428,
-      "ms": 6.5317
+      "ms": 4.664
     },
     {
       "n": 45,
       "seed": 450005,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 801,
-      "ms": 4.7495
+      "ms": 3.0307
     },
     {
       "n": 45,
       "seed": 450005,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 150,
-      "ms": 1.2643
+      "ms": 0.9808
     },
     {
       "n": 45,
@@ -1519,23 +1519,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1493,
-      "ms": 6.6456
+      "ms": 4.957
     },
     {
       "n": 45,
       "seed": 450006,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 1174,
-      "ms": 5.9162
+      "ms": 4.5518
     },
     {
       "n": 45,
       "seed": 450006,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 146,
-      "ms": 1.4313
+      "ms": 0.9859
     },
     {
       "n": 45,
@@ -1543,23 +1543,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1525,
-      "ms": 6.9206
+      "ms": 5.1378
     },
     {
       "n": 45,
       "seed": 450007,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 951,
-      "ms": 4.4332
+      "ms": 3.4927
     },
     {
       "n": 45,
       "seed": 450007,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 337,
-      "ms": 1.7998
+      "ms": 1.6625
     },
     {
       "n": 45,
@@ -1567,23 +1567,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1486,
-      "ms": 6.3071
+      "ms": 5.5292
     },
     {
       "n": 45,
       "seed": 450008,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 554,
-      "ms": 2.9686
+      "ms": 2.3618
     },
     {
       "n": 45,
       "seed": 450008,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 193,
-      "ms": 1.1481
+      "ms": 1.1431
     },
     {
       "n": 45,
@@ -1591,23 +1591,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1484,
-      "ms": 6.0054
+      "ms": 5.2997
     },
     {
       "n": 45,
       "seed": 450010,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 625,
-      "ms": 3.6729
+      "ms": 2.444
     },
     {
       "n": 45,
       "seed": 450010,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 176,
-      "ms": 1.6218
+      "ms": 1.0591
     },
     {
       "n": 45,
@@ -1615,23 +1615,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1516,
-      "ms": 7.4642
+      "ms": 4.915
     },
     {
       "n": 45,
       "seed": 450011,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 796,
-      "ms": 4.5637
+      "ms": 3.0095
     },
     {
       "n": 45,
       "seed": 450011,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 147,
-      "ms": 1.4358
+      "ms": 0.9759
     },
     {
       "n": 45,
@@ -1639,23 +1639,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1502,
-      "ms": 6.2844
+      "ms": 4.9459
     },
     {
       "n": 45,
       "seed": 450013,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 720,
-      "ms": 3.952
+      "ms": 2.7802
     },
     {
       "n": 45,
       "seed": 450013,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 161,
-      "ms": 1.5678
+      "ms": 1.0053
     },
     {
       "n": 45,
@@ -1663,23 +1663,23 @@
       "mode": "Dijkstra",
       "cost": 90,
       "expanded": 1525,
-      "ms": 6.8125
+      "ms": 5.0228
     },
     {
       "n": 45,
       "seed": 450014,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 90,
       "expanded": 912,
-      "ms": 3.5023
+      "ms": 3.9436
     },
     {
       "n": 45,
       "seed": 450014,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 90,
       "expanded": 192,
-      "ms": 1.3846
+      "ms": 1.1454
     },
     {
       "n": 45,
@@ -1687,23 +1687,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1535,
-      "ms": 5.1385
+      "ms": 5.0672
     },
     {
       "n": 45,
       "seed": 450015,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 877,
-      "ms": 3.9301
+      "ms": 3.3329
     },
     {
       "n": 45,
       "seed": 450015,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 229,
-      "ms": 1.779
+      "ms": 1.2501
     },
     {
       "n": 45,
@@ -1711,23 +1711,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1510,
-      "ms": 5.3295
+      "ms": 4.9419
     },
     {
       "n": 45,
       "seed": 450016,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 856,
-      "ms": 3.2957
+      "ms": 3.1963
     },
     {
       "n": 45,
       "seed": 450016,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 162,
-      "ms": 1.5551
+      "ms": 1.0365
     },
     {
       "n": 45,
@@ -1735,23 +1735,23 @@
       "mode": "Dijkstra",
       "cost": 92,
       "expanded": 1483,
-      "ms": 6.6482
+      "ms": 4.9266
     },
     {
       "n": 45,
       "seed": 450018,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 92,
       "expanded": 1069,
-      "ms": 3.8862
+      "ms": 3.9436
     },
     {
       "n": 45,
       "seed": 450018,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 92,
       "expanded": 802,
-      "ms": 3.4048
+      "ms": 3.217
     },
     {
       "n": 45,
@@ -1759,23 +1759,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1537,
-      "ms": 7.3122
+      "ms": 5.3369
     },
     {
       "n": 45,
       "seed": 450019,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 650,
-      "ms": 3.861
+      "ms": 2.7788
     },
     {
       "n": 45,
       "seed": 450019,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 224,
-      "ms": 1.3014
+      "ms": 1.303
     },
     {
       "n": 45,
@@ -1783,23 +1783,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1533,
-      "ms": 6.4809
+      "ms": 5.0
     },
     {
       "n": 45,
       "seed": 450021,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 598,
-      "ms": 2.7114
+      "ms": 2.3777
     },
     {
       "n": 45,
       "seed": 450021,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 103,
-      "ms": 1.1161
+      "ms": 0.8032
     },
     {
       "n": 45,
@@ -1807,23 +1807,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1515,
-      "ms": 5.5985
+      "ms": 5.1918
     },
     {
       "n": 45,
       "seed": 450022,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 641,
-      "ms": 2.5828
+      "ms": 2.4938
     },
     {
       "n": 45,
       "seed": 450022,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 203,
-      "ms": 1.6732
+      "ms": 1.1987
     },
     {
       "n": 45,
@@ -1831,23 +1831,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1481,
-      "ms": 6.2865
+      "ms": 4.8429
     },
     {
       "n": 45,
       "seed": 450023,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 812,
-      "ms": 4.5247
+      "ms": 3.1798
     },
     {
       "n": 45,
       "seed": 450023,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 214,
-      "ms": 1.8506
+      "ms": 1.2413
     },
     {
       "n": 45,
@@ -1855,23 +1855,23 @@
       "mode": "Dijkstra",
       "cost": 90,
       "expanded": 1493,
-      "ms": 5.1447
+      "ms": 4.9199
     },
     {
       "n": 45,
       "seed": 450028,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 90,
       "expanded": 815,
-      "ms": 3.2324
+      "ms": 3.1067
     },
     {
       "n": 45,
       "seed": 450028,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 90,
       "expanded": 365,
-      "ms": 1.8472
+      "ms": 1.7322
     },
     {
       "n": 45,
@@ -1879,23 +1879,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1481,
-      "ms": 5.4635
+      "ms": 4.8268
     },
     {
       "n": 45,
       "seed": 450029,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 525,
-      "ms": 2.8092
+      "ms": 2.1514
     },
     {
       "n": 45,
       "seed": 450029,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 160,
-      "ms": 1.1618
+      "ms": 1.0198
     },
     {
       "n": 45,
@@ -1903,23 +1903,23 @@
       "mode": "Dijkstra",
       "cost": 88,
       "expanded": 1514,
-      "ms": 6.1032
+      "ms": 4.9766
     },
     {
       "n": 45,
       "seed": 450030,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "cost": 88,
       "expanded": 847,
-      "ms": 4.4903
+      "ms": 3.1891
     },
     {
       "n": 45,
       "seed": 450030,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "cost": 88,
       "expanded": 189,
-      "ms": 1.7025
+      "ms": 1.1132
     }
   ],
   "summary": [
@@ -1928,84 +1928,84 @@
       "mode": "Dijkstra",
       "expanded": 164.4,
       "sd": 17.84848511926521,
-      "ms": 0.5227
+      "ms": 0.519935
     },
     {
       "n": 15,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "expanded": 112.5,
       "sd": 24.41634482752982,
-      "ms": 0.40374
+      "ms": 0.398415
     },
     {
       "n": 15,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "expanded": 52.65,
       "sd": 20.461195622831756,
-      "ms": 0.23359
+      "ms": 0.228255
     },
     {
       "n": 25,
       "mode": "Dijkstra",
       "expanded": 461.55,
       "sd": 14.06179969016469,
-      "ms": 1.498385
+      "ms": 1.489295
     },
     {
       "n": 25,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "expanded": 265.3,
       "sd": 55.88908188263796,
-      "ms": 0.98677
+      "ms": 0.9755199999999999
     },
     {
       "n": 25,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "expanded": 86.5,
       "sd": 35.829273535829095,
-      "ms": 0.44584
+      "ms": 0.44067
     },
     {
       "n": 35,
       "mode": "Dijkstra",
       "expanded": 912.4,
       "sd": 13.76647338550016,
-      "ms": 3.5730049999999998
+      "ms": 3.05775
     },
     {
       "n": 35,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "expanded": 470.05,
       "sd": 114.34687531689198,
-      "ms": 2.18356
+      "ms": 1.8159
     },
     {
       "n": 35,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "expanded": 161.95,
       "sd": 119.19664204030335,
-      "ms": 1.027655
+      "ms": 0.8499950000000001
     },
     {
       "n": 45,
       "mode": "Dijkstra",
       "expanded": 1499.75,
       "sd": 28.072978204372223,
-      "ms": 6.34228
+      "ms": 5.04344
     },
     {
       "n": 45,
-      "mode": "A* small-g",
+      "mode": "A* \u5c0f g \u4f18\u5148",
       "expanded": 780.05,
       "sd": 169.13198676586407,
-      "ms": 3.834115
+      "ms": 3.046735
     },
     {
       "n": 45,
-      "mode": "A* large-g",
+      "mode": "A* \u5927 g \u4f18\u5148",
       "expanded": 225.5,
       "sd": 148.85050783994836,
-      "ms": 1.585605
+      "ms": 1.252075
     }
   ],
   "trees": [
