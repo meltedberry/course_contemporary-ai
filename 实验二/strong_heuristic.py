@@ -1,5 +1,5 @@
 # 先把障碍格视为代价为 1 的通路，再计算到终点的最小代价，用它引导原地图上的搜索。
-import heapq,random,json
+import heapq,random,json,statistics
 from pathlib import Path
 from experiment import astar
 
@@ -33,7 +33,17 @@ def trial(n=31,seed=20261112):
                     if ng<best.get(v,10**9):best[v]=ng;heapq.heappush(q,(ng+d[v],ng,v))
         return -1,count
     base=astar(grid,(0,0),goal,False); man=astar(grid,(0,0),goal); strong=search()
-    assert base[0]==man[0]==strong[0] and base[0]>=0
+    assert base[0]==man[0]==strong[0]
     return dict(seed=seed,n=n,cost=base[0],dijkstra=base[2],manhattan=man[2],relaxed=strong[1],preprocessing=pre)
 if __name__=='__main__':
-    r=trial(); print(r); Path(__file__).with_name('strong_results.json').write_text(json.dumps(r,indent=2))
+    rows=[]; seed=20261112
+    while len(rows)<20:
+        r=trial(seed=seed); seed+=1
+        if r['cost']>=0: rows.append(r)
+    summary={k:dict(mean=statistics.mean(r[k] for r in rows),sd=statistics.stdev(r[k] for r in rows)) for k in ['dijkstra','manhattan','relaxed','preprocessing']}
+    result=dict(maps=rows,summary=summary)
+    print(summary)
+    Path(__file__).with_name('strong_results.json').write_text(json.dumps(result,indent=2))
+
+
+
