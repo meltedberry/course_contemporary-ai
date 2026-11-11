@@ -1,4 +1,4 @@
-"""在同一批地图和博弈树上比较搜索性能。请先运行 experiment.py，再运行本脚本。"""
+# 在同一批地图和博弈树上比较搜索性能。请先运行 experiment.py，再运行本脚本。
 import json, random, statistics, time, platform
 from pathlib import Path
 import matplotlib
