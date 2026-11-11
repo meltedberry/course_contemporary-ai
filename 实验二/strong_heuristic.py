@@ -1,4 +1,4 @@
-"""先把障碍格视为代价为 1 的通路，再计算到终点的最小代价，用它引导原地图上的搜索。"""
+# 先把障碍格视为代价为 1 的通路，再计算到终点的最小代价，用它引导原地图上的搜索。
 import heapq,random,json
 from pathlib import Path
 from experiment import astar
