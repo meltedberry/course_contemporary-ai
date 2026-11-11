@@ -1,4 +1,4 @@
-"""Terrain-aware lower bound from a relaxed grid (obstacles removed)."""
+"""先把障碍格视为代价为 1 的通路，再计算到终点的最小代价，用它引导原地图上的搜索。"""
 import heapq,random,json
 from pathlib import Path
 from experiment import astar
@@ -8,7 +8,7 @@ def trial(n=31,seed=20261112):
     grid=[['X' if rng.random()<.2 else rng.randint(1,9) for _ in range(n)] for _ in range(n)]
     grid[0][0]=grid[-1][-1]=1
     goal=(n-1,n-1)
-    # Reverse Dijkstra on the relaxed graph; entering an obstacle costs 1.
+    # 从终点反向运行 Dijkstra；原来的障碍格按进入代价 1 处理。
     d={goal:0}; q=[(0,goal)]; pre=0
     while q:
         g,p=heapq.heappop(q)
