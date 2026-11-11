@@ -16,5 +16,3 @@ python strong_heuristic.py
 在本目录运行。results.json 为四题与空白网格对照；benchmark_results.json 保存随机地图种子、逐图节点数和耗时，以及随机博弈树结果；strong_results.json 保存地形感知启发式实验。
 
 地图规模为 15、25、35、45，障碍率 25%，每规模取固定种子序列前 20 张可达地图，每图每算法重复 7 次，取耗时中位数。节点统计包含终点，博弈统计包含根。逐图核验 A* 与 Dijkstra 的代价一致，逐树核验 Alpha-beta 与 Minimax 返回值一致。
-
-报告单独提交，本仓库仅保存代码、数据与运行说明。
