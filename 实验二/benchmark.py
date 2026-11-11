@@ -42,7 +42,7 @@ for depth in range(2,8):
         trees.append(dict(depth=depth,seed=seed,minimax=c[1],ab=e[1]))
 data=dict(environment=platform.python_version(),maps=rows,summary=summary,trees=trees)
 (ROOT/'benchmark_results.json').write_text(json.dumps(data,indent=2),encoding='utf-8')
-fig,axs=plt.subplots(2,2,figsize=(10,6.2),layout='constrained')
+fig,axs=plt.subplots(2,2,figsize=(10,5),layout='constrained')
 colors=['#788596','#287bb5','#e07a35']
 for (label,_,_),color in zip(MODES,colors):
     rr=[r for r in summary if r['mode']==label]
