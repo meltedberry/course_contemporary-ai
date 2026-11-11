@@ -1,0 +1,369 @@
+{
+  "maze": {
+    "False": [
+      7,
+      [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      16
+    ],
+    "True": [
+      7,
+      [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          1,
+          3
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          2,
+          4
+        ],
+        [
+          3,
+          4
+        ]
+      ],
+      14
+    ]
+  },
+  "weighted": {
+    "False": [
+      7,
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      15
+    ],
+    "True": [
+      7,
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          4
+        ]
+      ],
+      11
+    ]
+  },
+  "matrix": [
+    [
+      0,
+      12,
+      10,
+      4,
+      8,
+      8
+    ],
+    [
+      12,
+      0,
+      8,
+      8,
+      4,
+      10
+    ],
+    [
+      10,
+      8,
+      0,
+      6,
+      6,
+      12
+    ],
+    [
+      4,
+      8,
+      6,
+      0,
+      6,
+      6
+    ],
+    [
+      8,
+      4,
+      6,
+      6,
+      0,
+      6
+    ],
+    [
+      8,
+      10,
+      12,
+      6,
+      6,
+      0
+    ]
+  ],
+  "tree": {
+    "reverse=False,ab=False": [
+      5,
+      [
+        15,
+        8
+      ]
+    ],
+    "reverse=False,ab=True": [
+      5,
+      [
+        14,
+        7
+      ]
+    ],
+    "reverse=True,ab=False": [
+      5,
+      [
+        15,
+        8
+      ]
+    ],
+    "reverse=True,ab=True": [
+      5,
+      [
+        14,
+        7
+      ]
+    ]
+  },
+  "game": {
+    "H=2,ab=False,natural": {
+      "value": -1,
+      "target": "T2",
+      "nodes": 17,
+      "leaves": 12,
+      "hits": 0
+    },
+    "H=2,ab=False,reverse": {
+      "value": -1,
+      "target": "T2",
+      "nodes": 17,
+      "leaves": 12,
+      "hits": 0
+    },
+    "H=2,ab=False,gain": {
+      "value": -1,
+      "target": "T2",
+      "nodes": 17,
+      "leaves": 12,
+      "hits": 0
+    },
+    "H=2,ab=True,natural": {
+      "value": -1,
+      "target": "T2",
+      "nodes": 13,
+      "leaves": 8,
+      "hits": 0
+    },
+    "H=2,ab=True,reverse": {
+      "value": -1,
+      "target": "T2",
+      "nodes": 16,
+      "leaves": 11,
+      "hits": 0
+    },
+    "H=2,ab=True,gain": {
+      "value": -1,
+      "target": "T2",
+      "nodes": 11,
+      "leaves": 6,
+      "hits": 0
+    },
+    "H=4,ab=False,natural": {
+      "value": 3,
+      "target": "T3",
+      "nodes": 65,
+      "leaves": 24,
+      "hits": 0
+    },
+    "H=4,ab=False,reverse": {
+      "value": 3,
+      "target": "T3",
+      "nodes": 65,
+      "leaves": 24,
+      "hits": 0
+    },
+    "H=4,ab=False,gain": {
+      "value": 3,
+      "target": "T3",
+      "nodes": 65,
+      "leaves": 24,
+      "hits": 0
+    },
+    "H=4,ab=True,natural": {
+      "value": 3,
+      "target": "T3",
+      "nodes": 47,
+      "leaves": 16,
+      "hits": 0
+    },
+    "H=4,ab=True,reverse": {
+      "value": 3,
+      "target": "T3",
+      "nodes": 46,
+      "leaves": 16,
+      "hits": 0
+    },
+    "H=4,ab=True,gain": {
+      "value": 3,
+      "target": "T3",
+      "nodes": 37,
+      "leaves": 12,
+      "hits": 0
+    }
+  },
+  "extra": {
+    "10": {
+      "False": [
+        18,
+        100
+      ],
+      "True": [
+        18,
+        100
+      ],
+      "large_g": [
+        18,
+        19
+      ]
+    },
+    "30": {
+      "False": [
+        58,
+        900
+      ],
+      "True": [
+        58,
+        900
+      ],
+      "large_g": [
+        58,
+        59
+      ]
+    }
+  },
+  "cache": {
+    "value": 3,
+    "target": "T3",
+    "nodes": 65,
+    "leaves": 24,
+    "hits": 0
+  }
+}

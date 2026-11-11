@@ -1,0 +1,2733 @@
+{
+  "environment": "3.14.6",
+  "maps": [
+    {
+      "n": 15,
+      "seed": 150000,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 161,
+      "ms": 0.4984
+    },
+    {
+      "n": 15,
+      "seed": 150000,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 114,
+      "ms": 0.4047
+    },
+    {
+      "n": 15,
+      "seed": 150000,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 41,
+      "ms": 0.1893
+    },
+    {
+      "n": 15,
+      "seed": 150001,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 160,
+      "ms": 0.5041
+    },
+    {
+      "n": 15,
+      "seed": 150001,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 127,
+      "ms": 0.4445
+    },
+    {
+      "n": 15,
+      "seed": 150001,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 67,
+      "ms": 0.2762
+    },
+    {
+      "n": 15,
+      "seed": 150003,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 173,
+      "ms": 0.5532
+    },
+    {
+      "n": 15,
+      "seed": 150003,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 123,
+      "ms": 0.4213
+    },
+    {
+      "n": 15,
+      "seed": 150003,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 37,
+      "ms": 0.1757
+    },
+    {
+      "n": 15,
+      "seed": 150005,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 111,
+      "ms": 0.3606
+    },
+    {
+      "n": 15,
+      "seed": 150005,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 86,
+      "ms": 0.3024
+    },
+    {
+      "n": 15,
+      "seed": 150005,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 41,
+      "ms": 0.1839
+    },
+    {
+      "n": 15,
+      "seed": 150006,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 173,
+      "ms": 0.5457
+    },
+    {
+      "n": 15,
+      "seed": 150006,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 78,
+      "ms": 0.2889
+    },
+    {
+      "n": 15,
+      "seed": 150006,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 40,
+      "ms": 0.1883
+    },
+    {
+      "n": 15,
+      "seed": 150008,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 168,
+      "ms": 0.5473
+    },
+    {
+      "n": 15,
+      "seed": 150008,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 114,
+      "ms": 0.4096
+    },
+    {
+      "n": 15,
+      "seed": 150008,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 73,
+      "ms": 0.2988
+    },
+    {
+      "n": 15,
+      "seed": 150009,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 171,
+      "ms": 0.5363
+    },
+    {
+      "n": 15,
+      "seed": 150009,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 126,
+      "ms": 0.4344
+    },
+    {
+      "n": 15,
+      "seed": 150009,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 47,
+      "ms": 0.2082
+    },
+    {
+      "n": 15,
+      "seed": 150010,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 145,
+      "ms": 0.4722
+    },
+    {
+      "n": 15,
+      "seed": 150010,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 76,
+      "ms": 0.2801
+    },
+    {
+      "n": 15,
+      "seed": 150010,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 42,
+      "ms": 0.1858
+    },
+    {
+      "n": 15,
+      "seed": 150011,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 174,
+      "ms": 0.5692
+    },
+    {
+      "n": 15,
+      "seed": 150011,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 136,
+      "ms": 0.4746
+    },
+    {
+      "n": 15,
+      "seed": 150011,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 48,
+      "ms": 0.2096
+    },
+    {
+      "n": 15,
+      "seed": 150012,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 181,
+      "ms": 0.5764
+    },
+    {
+      "n": 15,
+      "seed": 150012,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 117,
+      "ms": 0.4187
+    },
+    {
+      "n": 15,
+      "seed": 150012,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 50,
+      "ms": 0.2218
+    },
+    {
+      "n": 15,
+      "seed": 150013,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 172,
+      "ms": 0.5482
+    },
+    {
+      "n": 15,
+      "seed": 150013,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 144,
+      "ms": 0.504
+    },
+    {
+      "n": 15,
+      "seed": 150013,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 59,
+      "ms": 0.2595
+    },
+    {
+      "n": 15,
+      "seed": 150014,
+      "mode": "Dijkstra",
+      "cost": 38,
+      "expanded": 166,
+      "ms": 0.5227
+    },
+    {
+      "n": 15,
+      "seed": 150014,
+      "mode": "A* small-g",
+      "cost": 38,
+      "expanded": 125,
+      "ms": 0.4244
+    },
+    {
+      "n": 15,
+      "seed": 150014,
+      "mode": "A* large-g",
+      "cost": 38,
+      "expanded": 119,
+      "ms": 0.4379
+    },
+    {
+      "n": 15,
+      "seed": 150015,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 169,
+      "ms": 0.5358
+    },
+    {
+      "n": 15,
+      "seed": 150015,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 101,
+      "ms": 0.3665
+    },
+    {
+      "n": 15,
+      "seed": 150015,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 51,
+      "ms": 0.2223
+    },
+    {
+      "n": 15,
+      "seed": 150016,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 156,
+      "ms": 0.4792
+    },
+    {
+      "n": 15,
+      "seed": 150016,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 89,
+      "ms": 0.424
+    },
+    {
+      "n": 15,
+      "seed": 150016,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 37,
+      "ms": 0.2891
+    },
+    {
+      "n": 15,
+      "seed": 150017,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 176,
+      "ms": 0.5633
+    },
+    {
+      "n": 15,
+      "seed": 150017,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 146,
+      "ms": 0.5107
+    },
+    {
+      "n": 15,
+      "seed": 150017,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 54,
+      "ms": 0.2359
+    },
+    {
+      "n": 15,
+      "seed": 150018,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 129,
+      "ms": 0.4116
+    },
+    {
+      "n": 15,
+      "seed": 150018,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 65,
+      "ms": 0.2495
+    },
+    {
+      "n": 15,
+      "seed": 150018,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 37,
+      "ms": 0.1708
+    },
+    {
+      "n": 15,
+      "seed": 150019,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 177,
+      "ms": 0.5647
+    },
+    {
+      "n": 15,
+      "seed": 150019,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 144,
+      "ms": 0.5111
+    },
+    {
+      "n": 15,
+      "seed": 150019,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 69,
+      "ms": 0.2847
+    },
+    {
+      "n": 15,
+      "seed": 150020,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 185,
+      "ms": 0.5993
+    },
+    {
+      "n": 15,
+      "seed": 150020,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 105,
+      "ms": 0.3874
+    },
+    {
+      "n": 15,
+      "seed": 150020,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 31,
+      "ms": 0.1637
+    },
+    {
+      "n": 15,
+      "seed": 150021,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 174,
+      "ms": 0.5456
+    },
+    {
+      "n": 15,
+      "seed": 150021,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 136,
+      "ms": 0.4712
+    },
+    {
+      "n": 15,
+      "seed": 150021,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 75,
+      "ms": 0.2992
+    },
+    {
+      "n": 15,
+      "seed": 150023,
+      "mode": "Dijkstra",
+      "cost": 28,
+      "expanded": 167,
+      "ms": 0.5202
+    },
+    {
+      "n": 15,
+      "seed": 150023,
+      "mode": "A* small-g",
+      "cost": 28,
+      "expanded": 98,
+      "ms": 0.3468
+    },
+    {
+      "n": 15,
+      "seed": 150023,
+      "mode": "A* large-g",
+      "cost": 28,
+      "expanded": 35,
+      "ms": 0.1711
+    },
+    {
+      "n": 25,
+      "seed": 250002,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 480,
+      "ms": 1.5744
+    },
+    {
+      "n": 25,
+      "seed": 250002,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 352,
+      "ms": 1.2907
+    },
+    {
+      "n": 25,
+      "seed": 250002,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 101,
+      "ms": 0.4993
+    },
+    {
+      "n": 25,
+      "seed": 250004,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 434,
+      "ms": 1.4205
+    },
+    {
+      "n": 25,
+      "seed": 250004,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 275,
+      "ms": 1.0096
+    },
+    {
+      "n": 25,
+      "seed": 250004,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 67,
+      "ms": 0.3703
+    },
+    {
+      "n": 25,
+      "seed": 250005,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 470,
+      "ms": 1.5371
+    },
+    {
+      "n": 25,
+      "seed": 250005,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 247,
+      "ms": 0.938
+    },
+    {
+      "n": 25,
+      "seed": 250005,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 143,
+      "ms": 0.6465
+    },
+    {
+      "n": 25,
+      "seed": 250006,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 474,
+      "ms": 1.538
+    },
+    {
+      "n": 25,
+      "seed": 250006,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 253,
+      "ms": 0.9511
+    },
+    {
+      "n": 25,
+      "seed": 250006,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 56,
+      "ms": 0.3466
+    },
+    {
+      "n": 25,
+      "seed": 250008,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 470,
+      "ms": 1.5279
+    },
+    {
+      "n": 25,
+      "seed": 250008,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 266,
+      "ms": 0.9806
+    },
+    {
+      "n": 25,
+      "seed": 250008,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 96,
+      "ms": 0.4693
+    },
+    {
+      "n": 25,
+      "seed": 250009,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 472,
+      "ms": 1.5429
+    },
+    {
+      "n": 25,
+      "seed": 250009,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 328,
+      "ms": 1.2137
+    },
+    {
+      "n": 25,
+      "seed": 250009,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 74,
+      "ms": 0.4153
+    },
+    {
+      "n": 25,
+      "seed": 250012,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 448,
+      "ms": 1.4704
+    },
+    {
+      "n": 25,
+      "seed": 250012,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 290,
+      "ms": 1.0753
+    },
+    {
+      "n": 25,
+      "seed": 250012,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 68,
+      "ms": 0.3802
+    },
+    {
+      "n": 25,
+      "seed": 250013,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 467,
+      "ms": 1.4967
+    },
+    {
+      "n": 25,
+      "seed": 250013,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 312,
+      "ms": 1.1088
+    },
+    {
+      "n": 25,
+      "seed": 250013,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 123,
+      "ms": 0.5591
+    },
+    {
+      "n": 25,
+      "seed": 250014,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 452,
+      "ms": 1.4824
+    },
+    {
+      "n": 25,
+      "seed": 250014,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 276,
+      "ms": 1.0127
+    },
+    {
+      "n": 25,
+      "seed": 250014,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 166,
+      "ms": 0.7163
+    },
+    {
+      "n": 25,
+      "seed": 250015,
+      "mode": "Dijkstra",
+      "cost": 50,
+      "expanded": 457,
+      "ms": 1.4697
+    },
+    {
+      "n": 25,
+      "seed": 250015,
+      "mode": "A* small-g",
+      "cost": 50,
+      "expanded": 266,
+      "ms": 0.9873
+    },
+    {
+      "n": 25,
+      "seed": 250015,
+      "mode": "A* large-g",
+      "cost": 50,
+      "expanded": 55,
+      "ms": 0.338
+    },
+    {
+      "n": 25,
+      "seed": 250016,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 467,
+      "ms": 1.5092
+    },
+    {
+      "n": 25,
+      "seed": 250016,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 210,
+      "ms": 0.8156
+    },
+    {
+      "n": 25,
+      "seed": 250016,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 62,
+      "ms": 0.3511
+    },
+    {
+      "n": 25,
+      "seed": 250018,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 441,
+      "ms": 1.4239
+    },
+    {
+      "n": 25,
+      "seed": 250018,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 104,
+      "ms": 0.4711
+    },
+    {
+      "n": 25,
+      "seed": 250018,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 74,
+      "ms": 0.3969
+    },
+    {
+      "n": 25,
+      "seed": 250019,
+      "mode": "Dijkstra",
+      "cost": 52,
+      "expanded": 450,
+      "ms": 1.4727
+    },
+    {
+      "n": 25,
+      "seed": 250019,
+      "mode": "A* small-g",
+      "cost": 52,
+      "expanded": 278,
+      "ms": 1.0092
+    },
+    {
+      "n": 25,
+      "seed": 250019,
+      "mode": "A* large-g",
+      "cost": 52,
+      "expanded": 154,
+      "ms": 0.6652
+    },
+    {
+      "n": 25,
+      "seed": 250020,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 466,
+      "ms": 1.4901
+    },
+    {
+      "n": 25,
+      "seed": 250020,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 218,
+      "ms": 0.8303
+    },
+    {
+      "n": 25,
+      "seed": 250020,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 69,
+      "ms": 0.3771
+    },
+    {
+      "n": 25,
+      "seed": 250021,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 478,
+      "ms": 1.5568
+    },
+    {
+      "n": 25,
+      "seed": 250021,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 313,
+      "ms": 1.1245
+    },
+    {
+      "n": 25,
+      "seed": 250021,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 54,
+      "ms": 0.3586
+    },
+    {
+      "n": 25,
+      "seed": 250023,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 470,
+      "ms": 1.5114
+    },
+    {
+      "n": 25,
+      "seed": 250023,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 314,
+      "ms": 1.1412
+    },
+    {
+      "n": 25,
+      "seed": 250023,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 76,
+      "ms": 0.4139
+    },
+    {
+      "n": 25,
+      "seed": 250026,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 468,
+      "ms": 1.5176
+    },
+    {
+      "n": 25,
+      "seed": 250026,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 268,
+      "ms": 0.9862
+    },
+    {
+      "n": 25,
+      "seed": 250026,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 119,
+      "ms": 0.5517
+    },
+    {
+      "n": 25,
+      "seed": 250027,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 451,
+      "ms": 1.4556
+    },
+    {
+      "n": 25,
+      "seed": 250027,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 201,
+      "ms": 0.7848
+    },
+    {
+      "n": 25,
+      "seed": 250027,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 66,
+      "ms": 0.3852
+    },
+    {
+      "n": 25,
+      "seed": 250029,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 438,
+      "ms": 1.4295
+    },
+    {
+      "n": 25,
+      "seed": 250029,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 313,
+      "ms": 1.1511
+    },
+    {
+      "n": 25,
+      "seed": 250029,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 55,
+      "ms": 0.3416
+    },
+    {
+      "n": 25,
+      "seed": 250030,
+      "mode": "Dijkstra",
+      "cost": 48,
+      "expanded": 478,
+      "ms": 1.5409
+    },
+    {
+      "n": 25,
+      "seed": 250030,
+      "mode": "A* small-g",
+      "cost": 48,
+      "expanded": 222,
+      "ms": 0.8536
+    },
+    {
+      "n": 25,
+      "seed": 250030,
+      "mode": "A* large-g",
+      "cost": 48,
+      "expanded": 52,
+      "ms": 0.3346
+    },
+    {
+      "n": 35,
+      "seed": 350000,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 924,
+      "ms": 3.0632
+    },
+    {
+      "n": 35,
+      "seed": 350000,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 488,
+      "ms": 1.8816
+    },
+    {
+      "n": 35,
+      "seed": 350000,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 131,
+      "ms": 0.7568
+    },
+    {
+      "n": 35,
+      "seed": 350001,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 915,
+      "ms": 2.9818
+    },
+    {
+      "n": 35,
+      "seed": 350001,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 472,
+      "ms": 1.7656
+    },
+    {
+      "n": 35,
+      "seed": 350001,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 127,
+      "ms": 0.7143
+    },
+    {
+      "n": 35,
+      "seed": 350002,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 885,
+      "ms": 2.8914
+    },
+    {
+      "n": 35,
+      "seed": 350002,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 482,
+      "ms": 1.8317
+    },
+    {
+      "n": 35,
+      "seed": 350002,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 144,
+      "ms": 0.7864
+    },
+    {
+      "n": 35,
+      "seed": 350003,
+      "mode": "Dijkstra",
+      "cost": 70,
+      "expanded": 920,
+      "ms": 2.9936
+    },
+    {
+      "n": 35,
+      "seed": 350003,
+      "mode": "A* small-g",
+      "cost": 70,
+      "expanded": 321,
+      "ms": 1.3012
+    },
+    {
+      "n": 35,
+      "seed": 350003,
+      "mode": "A* large-g",
+      "cost": 70,
+      "expanded": 123,
+      "ms": 0.7084
+    },
+    {
+      "n": 35,
+      "seed": 350004,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 895,
+      "ms": 2.9076
+    },
+    {
+      "n": 35,
+      "seed": 350004,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 354,
+      "ms": 1.4153
+    },
+    {
+      "n": 35,
+      "seed": 350004,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 176,
+      "ms": 0.8865
+    },
+    {
+      "n": 35,
+      "seed": 350005,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 922,
+      "ms": 3.0228
+    },
+    {
+      "n": 35,
+      "seed": 350005,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 387,
+      "ms": 1.5366
+    },
+    {
+      "n": 35,
+      "seed": 350005,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 110,
+      "ms": 0.6866
+    },
+    {
+      "n": 35,
+      "seed": 350006,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 924,
+      "ms": 2.9987
+    },
+    {
+      "n": 35,
+      "seed": 350006,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 527,
+      "ms": 1.9715
+    },
+    {
+      "n": 35,
+      "seed": 350006,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 159,
+      "ms": 0.8297
+    },
+    {
+      "n": 35,
+      "seed": 350007,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 912,
+      "ms": 2.9959
+    },
+    {
+      "n": 35,
+      "seed": 350007,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 465,
+      "ms": 1.7696
+    },
+    {
+      "n": 35,
+      "seed": 350007,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 75,
+      "ms": 0.5476
+    },
+    {
+      "n": 35,
+      "seed": 350008,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 911,
+      "ms": 3.0227
+    },
+    {
+      "n": 35,
+      "seed": 350008,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 464,
+      "ms": 1.7721
+    },
+    {
+      "n": 35,
+      "seed": 350008,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 212,
+      "ms": 1.052
+    },
+    {
+      "n": 35,
+      "seed": 350009,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 924,
+      "ms": 3.0982
+    },
+    {
+      "n": 35,
+      "seed": 350009,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 494,
+      "ms": 1.9251
+    },
+    {
+      "n": 35,
+      "seed": 350009,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 186,
+      "ms": 0.9522
+    },
+    {
+      "n": 35,
+      "seed": 350011,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 926,
+      "ms": 3.1345
+    },
+    {
+      "n": 35,
+      "seed": 350011,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 484,
+      "ms": 2.2437
+    },
+    {
+      "n": 35,
+      "seed": 350011,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 125,
+      "ms": 0.8935
+    },
+    {
+      "n": 35,
+      "seed": 350014,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 908,
+      "ms": 4.0321
+    },
+    {
+      "n": 35,
+      "seed": 350014,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 385,
+      "ms": 1.9654
+    },
+    {
+      "n": 35,
+      "seed": 350014,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 123,
+      "ms": 1.0485
+    },
+    {
+      "n": 35,
+      "seed": 350015,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 925,
+      "ms": 4.5176
+    },
+    {
+      "n": 35,
+      "seed": 350015,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 502,
+      "ms": 2.7051
+    },
+    {
+      "n": 35,
+      "seed": 350015,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 104,
+      "ms": 0.6636
+    },
+    {
+      "n": 35,
+      "seed": 350019,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 897,
+      "ms": 3.7278
+    },
+    {
+      "n": 35,
+      "seed": 350019,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 399,
+      "ms": 1.6865
+    },
+    {
+      "n": 35,
+      "seed": 350019,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 129,
+      "ms": 0.9921
+    },
+    {
+      "n": 35,
+      "seed": 350020,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 899,
+      "ms": 4.1675
+    },
+    {
+      "n": 35,
+      "seed": 350020,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 393,
+      "ms": 2.2457
+    },
+    {
+      "n": 35,
+      "seed": 350020,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 168,
+      "ms": 0.9021
+    },
+    {
+      "n": 35,
+      "seed": 350022,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 927,
+      "ms": 3.5402
+    },
+    {
+      "n": 35,
+      "seed": 350022,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 485,
+      "ms": 2.7361
+    },
+    {
+      "n": 35,
+      "seed": 350022,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 92,
+      "ms": 0.8848
+    },
+    {
+      "n": 35,
+      "seed": 350023,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 932,
+      "ms": 4.5525
+    },
+    {
+      "n": 35,
+      "seed": 350023,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 563,
+      "ms": 3.1166
+    },
+    {
+      "n": 35,
+      "seed": 350023,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 187,
+      "ms": 1.2933
+    },
+    {
+      "n": 35,
+      "seed": 350024,
+      "mode": "Dijkstra",
+      "cost": 70,
+      "expanded": 894,
+      "ms": 4.3763
+    },
+    {
+      "n": 35,
+      "seed": 350024,
+      "mode": "A* small-g",
+      "cost": 70,
+      "expanded": 560,
+      "ms": 3.1022
+    },
+    {
+      "n": 35,
+      "seed": 350024,
+      "mode": "A* large-g",
+      "cost": 70,
+      "expanded": 110,
+      "ms": 0.9359
+    },
+    {
+      "n": 35,
+      "seed": 350026,
+      "mode": "Dijkstra",
+      "cost": 70,
+      "expanded": 912,
+      "ms": 4.7101
+    },
+    {
+      "n": 35,
+      "seed": 350026,
+      "mode": "A* small-g",
+      "cost": 70,
+      "expanded": 850,
+      "ms": 4.5822
+    },
+    {
+      "n": 35,
+      "seed": 350026,
+      "mode": "A* large-g",
+      "cost": 70,
+      "expanded": 646,
+      "ms": 3.9818
+    },
+    {
+      "n": 35,
+      "seed": 350028,
+      "mode": "Dijkstra",
+      "cost": 68,
+      "expanded": 896,
+      "ms": 4.7256
+    },
+    {
+      "n": 35,
+      "seed": 350028,
+      "mode": "A* small-g",
+      "cost": 68,
+      "expanded": 326,
+      "ms": 2.1174
+    },
+    {
+      "n": 35,
+      "seed": 350028,
+      "mode": "A* large-g",
+      "cost": 68,
+      "expanded": 112,
+      "ms": 1.037
+    },
+    {
+      "n": 45,
+      "seed": 450003,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1450,
+      "ms": 7.3838
+    },
+    {
+      "n": 45,
+      "seed": 450003,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 743,
+      "ms": 3.8773
+    },
+    {
+      "n": 45,
+      "seed": 450003,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 175,
+      "ms": 1.0761
+    },
+    {
+      "n": 45,
+      "seed": 450004,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1504,
+      "ms": 6.9846
+    },
+    {
+      "n": 45,
+      "seed": 450004,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 635,
+      "ms": 3.7228
+    },
+    {
+      "n": 45,
+      "seed": 450004,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 182,
+      "ms": 1.5908
+    },
+    {
+      "n": 45,
+      "seed": 450005,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1428,
+      "ms": 6.5317
+    },
+    {
+      "n": 45,
+      "seed": 450005,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 801,
+      "ms": 4.7495
+    },
+    {
+      "n": 45,
+      "seed": 450005,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 150,
+      "ms": 1.2643
+    },
+    {
+      "n": 45,
+      "seed": 450006,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1493,
+      "ms": 6.6456
+    },
+    {
+      "n": 45,
+      "seed": 450006,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 1174,
+      "ms": 5.9162
+    },
+    {
+      "n": 45,
+      "seed": 450006,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 146,
+      "ms": 1.4313
+    },
+    {
+      "n": 45,
+      "seed": 450007,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1525,
+      "ms": 6.9206
+    },
+    {
+      "n": 45,
+      "seed": 450007,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 951,
+      "ms": 4.4332
+    },
+    {
+      "n": 45,
+      "seed": 450007,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 337,
+      "ms": 1.7998
+    },
+    {
+      "n": 45,
+      "seed": 450008,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1486,
+      "ms": 6.3071
+    },
+    {
+      "n": 45,
+      "seed": 450008,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 554,
+      "ms": 2.9686
+    },
+    {
+      "n": 45,
+      "seed": 450008,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 193,
+      "ms": 1.1481
+    },
+    {
+      "n": 45,
+      "seed": 450010,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1484,
+      "ms": 6.0054
+    },
+    {
+      "n": 45,
+      "seed": 450010,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 625,
+      "ms": 3.6729
+    },
+    {
+      "n": 45,
+      "seed": 450010,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 176,
+      "ms": 1.6218
+    },
+    {
+      "n": 45,
+      "seed": 450011,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1516,
+      "ms": 7.4642
+    },
+    {
+      "n": 45,
+      "seed": 450011,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 796,
+      "ms": 4.5637
+    },
+    {
+      "n": 45,
+      "seed": 450011,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 147,
+      "ms": 1.4358
+    },
+    {
+      "n": 45,
+      "seed": 450013,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1502,
+      "ms": 6.2844
+    },
+    {
+      "n": 45,
+      "seed": 450013,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 720,
+      "ms": 3.952
+    },
+    {
+      "n": 45,
+      "seed": 450013,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 161,
+      "ms": 1.5678
+    },
+    {
+      "n": 45,
+      "seed": 450014,
+      "mode": "Dijkstra",
+      "cost": 90,
+      "expanded": 1525,
+      "ms": 6.8125
+    },
+    {
+      "n": 45,
+      "seed": 450014,
+      "mode": "A* small-g",
+      "cost": 90,
+      "expanded": 912,
+      "ms": 3.5023
+    },
+    {
+      "n": 45,
+      "seed": 450014,
+      "mode": "A* large-g",
+      "cost": 90,
+      "expanded": 192,
+      "ms": 1.3846
+    },
+    {
+      "n": 45,
+      "seed": 450015,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1535,
+      "ms": 5.1385
+    },
+    {
+      "n": 45,
+      "seed": 450015,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 877,
+      "ms": 3.9301
+    },
+    {
+      "n": 45,
+      "seed": 450015,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 229,
+      "ms": 1.779
+    },
+    {
+      "n": 45,
+      "seed": 450016,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1510,
+      "ms": 5.3295
+    },
+    {
+      "n": 45,
+      "seed": 450016,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 856,
+      "ms": 3.2957
+    },
+    {
+      "n": 45,
+      "seed": 450016,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 162,
+      "ms": 1.5551
+    },
+    {
+      "n": 45,
+      "seed": 450018,
+      "mode": "Dijkstra",
+      "cost": 92,
+      "expanded": 1483,
+      "ms": 6.6482
+    },
+    {
+      "n": 45,
+      "seed": 450018,
+      "mode": "A* small-g",
+      "cost": 92,
+      "expanded": 1069,
+      "ms": 3.8862
+    },
+    {
+      "n": 45,
+      "seed": 450018,
+      "mode": "A* large-g",
+      "cost": 92,
+      "expanded": 802,
+      "ms": 3.4048
+    },
+    {
+      "n": 45,
+      "seed": 450019,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1537,
+      "ms": 7.3122
+    },
+    {
+      "n": 45,
+      "seed": 450019,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 650,
+      "ms": 3.861
+    },
+    {
+      "n": 45,
+      "seed": 450019,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 224,
+      "ms": 1.3014
+    },
+    {
+      "n": 45,
+      "seed": 450021,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1533,
+      "ms": 6.4809
+    },
+    {
+      "n": 45,
+      "seed": 450021,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 598,
+      "ms": 2.7114
+    },
+    {
+      "n": 45,
+      "seed": 450021,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 103,
+      "ms": 1.1161
+    },
+    {
+      "n": 45,
+      "seed": 450022,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1515,
+      "ms": 5.5985
+    },
+    {
+      "n": 45,
+      "seed": 450022,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 641,
+      "ms": 2.5828
+    },
+    {
+      "n": 45,
+      "seed": 450022,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 203,
+      "ms": 1.6732
+    },
+    {
+      "n": 45,
+      "seed": 450023,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1481,
+      "ms": 6.2865
+    },
+    {
+      "n": 45,
+      "seed": 450023,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 812,
+      "ms": 4.5247
+    },
+    {
+      "n": 45,
+      "seed": 450023,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 214,
+      "ms": 1.8506
+    },
+    {
+      "n": 45,
+      "seed": 450028,
+      "mode": "Dijkstra",
+      "cost": 90,
+      "expanded": 1493,
+      "ms": 5.1447
+    },
+    {
+      "n": 45,
+      "seed": 450028,
+      "mode": "A* small-g",
+      "cost": 90,
+      "expanded": 815,
+      "ms": 3.2324
+    },
+    {
+      "n": 45,
+      "seed": 450028,
+      "mode": "A* large-g",
+      "cost": 90,
+      "expanded": 365,
+      "ms": 1.8472
+    },
+    {
+      "n": 45,
+      "seed": 450029,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1481,
+      "ms": 5.4635
+    },
+    {
+      "n": 45,
+      "seed": 450029,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 525,
+      "ms": 2.8092
+    },
+    {
+      "n": 45,
+      "seed": 450029,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 160,
+      "ms": 1.1618
+    },
+    {
+      "n": 45,
+      "seed": 450030,
+      "mode": "Dijkstra",
+      "cost": 88,
+      "expanded": 1514,
+      "ms": 6.1032
+    },
+    {
+      "n": 45,
+      "seed": 450030,
+      "mode": "A* small-g",
+      "cost": 88,
+      "expanded": 847,
+      "ms": 4.4903
+    },
+    {
+      "n": 45,
+      "seed": 450030,
+      "mode": "A* large-g",
+      "cost": 88,
+      "expanded": 189,
+      "ms": 1.7025
+    }
+  ],
+  "summary": [
+    {
+      "n": 15,
+      "mode": "Dijkstra",
+      "expanded": 164.4,
+      "sd": 17.84848511926521,
+      "ms": 0.5227
+    },
+    {
+      "n": 15,
+      "mode": "A* small-g",
+      "expanded": 112.5,
+      "sd": 24.41634482752982,
+      "ms": 0.40374
+    },
+    {
+      "n": 15,
+      "mode": "A* large-g",
+      "expanded": 52.65,
+      "sd": 20.461195622831756,
+      "ms": 0.23359
+    },
+    {
+      "n": 25,
+      "mode": "Dijkstra",
+      "expanded": 461.55,
+      "sd": 14.06179969016469,
+      "ms": 1.498385
+    },
+    {
+      "n": 25,
+      "mode": "A* small-g",
+      "expanded": 265.3,
+      "sd": 55.88908188263796,
+      "ms": 0.98677
+    },
+    {
+      "n": 25,
+      "mode": "A* large-g",
+      "expanded": 86.5,
+      "sd": 35.829273535829095,
+      "ms": 0.44584
+    },
+    {
+      "n": 35,
+      "mode": "Dijkstra",
+      "expanded": 912.4,
+      "sd": 13.76647338550016,
+      "ms": 3.5730049999999998
+    },
+    {
+      "n": 35,
+      "mode": "A* small-g",
+      "expanded": 470.05,
+      "sd": 114.34687531689198,
+      "ms": 2.18356
+    },
+    {
+      "n": 35,
+      "mode": "A* large-g",
+      "expanded": 161.95,
+      "sd": 119.19664204030335,
+      "ms": 1.027655
+    },
+    {
+      "n": 45,
+      "mode": "Dijkstra",
+      "expanded": 1499.75,
+      "sd": 28.072978204372223,
+      "ms": 6.34228
+    },
+    {
+      "n": 45,
+      "mode": "A* small-g",
+      "expanded": 780.05,
+      "sd": 169.13198676586407,
+      "ms": 3.834115
+    },
+    {
+      "n": 45,
+      "mode": "A* large-g",
+      "expanded": 225.5,
+      "sd": 148.85050783994836,
+      "ms": 1.585605
+    }
+  ],
+  "trees": [
+    {
+      "depth": 2,
+      "seed": 0,
+      "minimax": 9,
+      "ab": 7
+    },
+    {
+      "depth": 2,
+      "seed": 1,
+      "minimax": 9,
+      "ab": 9
+    },
+    {
+      "depth": 2,
+      "seed": 2,
+      "minimax": 9,
+      "ab": 8
+    },
+    {
+      "depth": 2,
+      "seed": 3,
+      "minimax": 9,
+      "ab": 9
+    },
+    {
+      "depth": 2,
+      "seed": 4,
+      "minimax": 9,
+      "ab": 9
+    },
+    {
+      "depth": 2,
+      "seed": 5,
+      "minimax": 9,
+      "ab": 9
+    },
+    {
+      "depth": 2,
+      "seed": 6,
+      "minimax": 9,
+      "ab": 8
+    },
+    {
+      "depth": 2,
+      "seed": 7,
+      "minimax": 9,
+      "ab": 8
+    },
+    {
+      "depth": 2,
+      "seed": 8,
+      "minimax": 9,
+      "ab": 7
+    },
+    {
+      "depth": 2,
+      "seed": 9,
+      "minimax": 9,
+      "ab": 8
+    },
+    {
+      "depth": 2,
+      "seed": 10,
+      "minimax": 9,
+      "ab": 9
+    },
+    {
+      "depth": 2,
+      "seed": 11,
+      "minimax": 9,
+      "ab": 5
+    },
+    {
+      "depth": 2,
+      "seed": 12,
+      "minimax": 9,
+      "ab": 7
+    },
+    {
+      "depth": 2,
+      "seed": 13,
+      "minimax": 9,
+      "ab": 9
+    },
+    {
+      "depth": 2,
+      "seed": 14,
+      "minimax": 9,
+      "ab": 7
+    },
+    {
+      "depth": 2,
+      "seed": 15,
+      "minimax": 9,
+      "ab": 8
+    },
+    {
+      "depth": 2,
+      "seed": 16,
+      "minimax": 9,
+      "ab": 5
+    },
+    {
+      "depth": 2,
+      "seed": 17,
+      "minimax": 9,
+      "ab": 8
+    },
+    {
+      "depth": 2,
+      "seed": 18,
+      "minimax": 9,
+      "ab": 8
+    },
+    {
+      "depth": 2,
+      "seed": 19,
+      "minimax": 9,
+      "ab": 9
+    },
+    {
+      "depth": 3,
+      "seed": 0,
+      "minimax": 27,
+      "ab": 21
+    },
+    {
+      "depth": 3,
+      "seed": 1,
+      "minimax": 27,
+      "ab": 23
+    },
+    {
+      "depth": 3,
+      "seed": 2,
+      "minimax": 27,
+      "ab": 23
+    },
+    {
+      "depth": 3,
+      "seed": 3,
+      "minimax": 27,
+      "ab": 18
+    },
+    {
+      "depth": 3,
+      "seed": 4,
+      "minimax": 27,
+      "ab": 23
+    },
+    {
+      "depth": 3,
+      "seed": 5,
+      "minimax": 27,
+      "ab": 22
+    },
+    {
+      "depth": 3,
+      "seed": 6,
+      "minimax": 27,
+      "ab": 21
+    },
+    {
+      "depth": 3,
+      "seed": 7,
+      "minimax": 27,
+      "ab": 23
+    },
+    {
+      "depth": 3,
+      "seed": 8,
+      "minimax": 27,
+      "ab": 17
+    },
+    {
+      "depth": 3,
+      "seed": 9,
+      "minimax": 27,
+      "ab": 21
+    },
+    {
+      "depth": 3,
+      "seed": 10,
+      "minimax": 27,
+      "ab": 13
+    },
+    {
+      "depth": 3,
+      "seed": 11,
+      "minimax": 27,
+      "ab": 11
+    },
+    {
+      "depth": 3,
+      "seed": 12,
+      "minimax": 27,
+      "ab": 20
+    },
+    {
+      "depth": 3,
+      "seed": 13,
+      "minimax": 27,
+      "ab": 17
+    },
+    {
+      "depth": 3,
+      "seed": 14,
+      "minimax": 27,
+      "ab": 20
+    },
+    {
+      "depth": 3,
+      "seed": 15,
+      "minimax": 27,
+      "ab": 21
+    },
+    {
+      "depth": 3,
+      "seed": 16,
+      "minimax": 27,
+      "ab": 18
+    },
+    {
+      "depth": 3,
+      "seed": 17,
+      "minimax": 27,
+      "ab": 19
+    },
+    {
+      "depth": 3,
+      "seed": 18,
+      "minimax": 27,
+      "ab": 21
+    },
+    {
+      "depth": 3,
+      "seed": 19,
+      "minimax": 27,
+      "ab": 18
+    },
+    {
+      "depth": 4,
+      "seed": 0,
+      "minimax": 81,
+      "ab": 49
+    },
+    {
+      "depth": 4,
+      "seed": 1,
+      "minimax": 81,
+      "ab": 32
+    },
+    {
+      "depth": 4,
+      "seed": 2,
+      "minimax": 81,
+      "ab": 51
+    },
+    {
+      "depth": 4,
+      "seed": 3,
+      "minimax": 81,
+      "ab": 31
+    },
+    {
+      "depth": 4,
+      "seed": 4,
+      "minimax": 81,
+      "ab": 53
+    },
+    {
+      "depth": 4,
+      "seed": 5,
+      "minimax": 81,
+      "ab": 56
+    },
+    {
+      "depth": 4,
+      "seed": 6,
+      "minimax": 81,
+      "ab": 51
+    },
+    {
+      "depth": 4,
+      "seed": 7,
+      "minimax": 81,
+      "ab": 54
+    },
+    {
+      "depth": 4,
+      "seed": 8,
+      "minimax": 81,
+      "ab": 24
+    },
+    {
+      "depth": 4,
+      "seed": 9,
+      "minimax": 81,
+      "ab": 51
+    },
+    {
+      "depth": 4,
+      "seed": 10,
+      "minimax": 81,
+      "ab": 31
+    },
+    {
+      "depth": 4,
+      "seed": 11,
+      "minimax": 81,
+      "ab": 41
+    },
+    {
+      "depth": 4,
+      "seed": 12,
+      "minimax": 81,
+      "ab": 46
+    },
+    {
+      "depth": 4,
+      "seed": 13,
+      "minimax": 81,
+      "ab": 35
+    },
+    {
+      "depth": 4,
+      "seed": 14,
+      "minimax": 81,
+      "ab": 44
+    },
+    {
+      "depth": 4,
+      "seed": 15,
+      "minimax": 81,
+      "ab": 44
+    },
+    {
+      "depth": 4,
+      "seed": 16,
+      "minimax": 81,
+      "ab": 53
+    },
+    {
+      "depth": 4,
+      "seed": 17,
+      "minimax": 81,
+      "ab": 61
+    },
+    {
+      "depth": 4,
+      "seed": 18,
+      "minimax": 81,
+      "ab": 43
+    },
+    {
+      "depth": 4,
+      "seed": 19,
+      "minimax": 81,
+      "ab": 50
+    },
+    {
+      "depth": 5,
+      "seed": 0,
+      "minimax": 243,
+      "ab": 123
+    },
+    {
+      "depth": 5,
+      "seed": 1,
+      "minimax": 243,
+      "ab": 122
+    },
+    {
+      "depth": 5,
+      "seed": 2,
+      "minimax": 243,
+      "ab": 132
+    },
+    {
+      "depth": 5,
+      "seed": 3,
+      "minimax": 243,
+      "ab": 121
+    },
+    {
+      "depth": 5,
+      "seed": 4,
+      "minimax": 243,
+      "ab": 72
+    },
+    {
+      "depth": 5,
+      "seed": 5,
+      "minimax": 243,
+      "ab": 82
+    },
+    {
+      "depth": 5,
+      "seed": 6,
+      "minimax": 243,
+      "ab": 88
+    },
+    {
+      "depth": 5,
+      "seed": 7,
+      "minimax": 243,
+      "ab": 130
+    },
+    {
+      "depth": 5,
+      "seed": 8,
+      "minimax": 243,
+      "ab": 62
+    },
+    {
+      "depth": 5,
+      "seed": 9,
+      "minimax": 243,
+      "ab": 105
+    },
+    {
+      "depth": 5,
+      "seed": 10,
+      "minimax": 243,
+      "ab": 132
+    },
+    {
+      "depth": 5,
+      "seed": 11,
+      "minimax": 243,
+      "ab": 106
+    },
+    {
+      "depth": 5,
+      "seed": 12,
+      "minimax": 243,
+      "ab": 52
+    },
+    {
+      "depth": 5,
+      "seed": 13,
+      "minimax": 243,
+      "ab": 108
+    },
+    {
+      "depth": 5,
+      "seed": 14,
+      "minimax": 243,
+      "ab": 95
+    },
+    {
+      "depth": 5,
+      "seed": 15,
+      "minimax": 243,
+      "ab": 125
+    },
+    {
+      "depth": 5,
+      "seed": 16,
+      "minimax": 243,
+      "ab": 80
+    },
+    {
+      "depth": 5,
+      "seed": 17,
+      "minimax": 243,
+      "ab": 107
+    },
+    {
+      "depth": 5,
+      "seed": 18,
+      "minimax": 243,
+      "ab": 69
+    },
+    {
+      "depth": 5,
+      "seed": 19,
+      "minimax": 243,
+      "ab": 97
+    },
+    {
+      "depth": 6,
+      "seed": 0,
+      "minimax": 729,
+      "ab": 208
+    },
+    {
+      "depth": 6,
+      "seed": 1,
+      "minimax": 729,
+      "ab": 133
+    },
+    {
+      "depth": 6,
+      "seed": 2,
+      "minimax": 729,
+      "ab": 268
+    },
+    {
+      "depth": 6,
+      "seed": 3,
+      "minimax": 729,
+      "ab": 173
+    },
+    {
+      "depth": 6,
+      "seed": 4,
+      "minimax": 729,
+      "ab": 184
+    },
+    {
+      "depth": 6,
+      "seed": 5,
+      "minimax": 729,
+      "ab": 186
+    },
+    {
+      "depth": 6,
+      "seed": 6,
+      "minimax": 729,
+      "ab": 265
+    },
+    {
+      "depth": 6,
+      "seed": 7,
+      "minimax": 729,
+      "ab": 199
+    },
+    {
+      "depth": 6,
+      "seed": 8,
+      "minimax": 729,
+      "ab": 289
+    },
+    {
+      "depth": 6,
+      "seed": 9,
+      "minimax": 729,
+      "ab": 275
+    },
+    {
+      "depth": 6,
+      "seed": 10,
+      "minimax": 729,
+      "ab": 203
+    },
+    {
+      "depth": 6,
+      "seed": 11,
+      "minimax": 729,
+      "ab": 237
+    },
+    {
+      "depth": 6,
+      "seed": 12,
+      "minimax": 729,
+      "ab": 155
+    },
+    {
+      "depth": 6,
+      "seed": 13,
+      "minimax": 729,
+      "ab": 178
+    },
+    {
+      "depth": 6,
+      "seed": 14,
+      "minimax": 729,
+      "ab": 159
+    },
+    {
+      "depth": 6,
+      "seed": 15,
+      "minimax": 729,
+      "ab": 296
+    },
+    {
+      "depth": 6,
+      "seed": 16,
+      "minimax": 729,
+      "ab": 258
+    },
+    {
+      "depth": 6,
+      "seed": 17,
+      "minimax": 729,
+      "ab": 229
+    },
+    {
+      "depth": 6,
+      "seed": 18,
+      "minimax": 729,
+      "ab": 228
+    },
+    {
+      "depth": 6,
+      "seed": 19,
+      "minimax": 729,
+      "ab": 197
+    },
+    {
+      "depth": 7,
+      "seed": 0,
+      "minimax": 2187,
+      "ab": 772
+    },
+    {
+      "depth": 7,
+      "seed": 1,
+      "minimax": 2187,
+      "ab": 614
+    },
+    {
+      "depth": 7,
+      "seed": 2,
+      "minimax": 2187,
+      "ab": 637
+    },
+    {
+      "depth": 7,
+      "seed": 3,
+      "minimax": 2187,
+      "ab": 731
+    },
+    {
+      "depth": 7,
+      "seed": 4,
+      "minimax": 2187,
+      "ab": 516
+    },
+    {
+      "depth": 7,
+      "seed": 5,
+      "minimax": 2187,
+      "ab": 637
+    },
+    {
+      "depth": 7,
+      "seed": 6,
+      "minimax": 2187,
+      "ab": 750
+    },
+    {
+      "depth": 7,
+      "seed": 7,
+      "minimax": 2187,
+      "ab": 503
+    },
+    {
+      "depth": 7,
+      "seed": 8,
+      "minimax": 2187,
+      "ab": 447
+    },
+    {
+      "depth": 7,
+      "seed": 9,
+      "minimax": 2187,
+      "ab": 524
+    },
+    {
+      "depth": 7,
+      "seed": 10,
+      "minimax": 2187,
+      "ab": 463
+    },
+    {
+      "depth": 7,
+      "seed": 11,
+      "minimax": 2187,
+      "ab": 484
+    },
+    {
+      "depth": 7,
+      "seed": 12,
+      "minimax": 2187,
+      "ab": 701
+    },
+    {
+      "depth": 7,
+      "seed": 13,
+      "minimax": 2187,
+      "ab": 467
+    },
+    {
+      "depth": 7,
+      "seed": 14,
+      "minimax": 2187,
+      "ab": 512
+    },
+    {
+      "depth": 7,
+      "seed": 15,
+      "minimax": 2187,
+      "ab": 529
+    },
+    {
+      "depth": 7,
+      "seed": 16,
+      "minimax": 2187,
+      "ab": 743
+    },
+    {
+      "depth": 7,
+      "seed": 17,
+      "minimax": 2187,
+      "ab": 623
+    },
+    {
+      "depth": 7,
+      "seed": 18,
+      "minimax": 2187,
+      "ab": 364
+    },
+    {
+      "depth": 7,
+      "seed": 19,
+      "minimax": 2187,
+      "ab": 584
+    }
+  ]
+}

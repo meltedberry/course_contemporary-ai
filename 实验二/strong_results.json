@@ -1,0 +1,9 @@
+{
+  "seed": 20261112,
+  "n": 31,
+  "cost": 200,
+  "dijkstra": 765,
+  "manhattan": 759,
+  "relaxed": 591,
+  "preprocessing": 961
+}
