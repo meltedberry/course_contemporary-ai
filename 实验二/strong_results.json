@@ -1,9 +1,202 @@
 {
-  "seed": 20261112,
-  "n": 31,
-  "cost": 200,
-  "dijkstra": 765,
-  "manhattan": 759,
-  "relaxed": 591,
-  "preprocessing": 961
+  "maps": [
+    {
+      "seed": 20261112,
+      "n": 31,
+      "cost": 200,
+      "dijkstra": 765,
+      "manhattan": 759,
+      "relaxed": 591,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261113,
+      "n": 31,
+      "cost": 204,
+      "dijkstra": 787,
+      "manhattan": 785,
+      "relaxed": 520,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261114,
+      "n": 31,
+      "cost": 235,
+      "dijkstra": 765,
+      "manhattan": 765,
+      "relaxed": 693,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261115,
+      "n": 31,
+      "cost": 204,
+      "dijkstra": 763,
+      "manhattan": 755,
+      "relaxed": 574,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261116,
+      "n": 31,
+      "cost": 207,
+      "dijkstra": 767,
+      "manhattan": 761,
+      "relaxed": 615,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261117,
+      "n": 31,
+      "cost": 260,
+      "dijkstra": 748,
+      "manhattan": 747,
+      "relaxed": 729,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261118,
+      "n": 31,
+      "cost": 230,
+      "dijkstra": 715,
+      "manhattan": 708,
+      "relaxed": 597,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261119,
+      "n": 31,
+      "cost": 202,
+      "dijkstra": 756,
+      "manhattan": 755,
+      "relaxed": 597,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261121,
+      "n": 31,
+      "cost": 230,
+      "dijkstra": 768,
+      "manhattan": 767,
+      "relaxed": 679,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261122,
+      "n": 31,
+      "cost": 224,
+      "dijkstra": 777,
+      "manhattan": 776,
+      "relaxed": 727,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261123,
+      "n": 31,
+      "cost": 221,
+      "dijkstra": 762,
+      "manhattan": 758,
+      "relaxed": 648,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261124,
+      "n": 31,
+      "cost": 219,
+      "dijkstra": 783,
+      "manhattan": 781,
+      "relaxed": 607,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261125,
+      "n": 31,
+      "cost": 239,
+      "dijkstra": 758,
+      "manhattan": 754,
+      "relaxed": 715,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261126,
+      "n": 31,
+      "cost": 226,
+      "dijkstra": 787,
+      "manhattan": 781,
+      "relaxed": 635,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261127,
+      "n": 31,
+      "cost": 218,
+      "dijkstra": 741,
+      "manhattan": 736,
+      "relaxed": 604,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261128,
+      "n": 31,
+      "cost": 237,
+      "dijkstra": 732,
+      "manhattan": 730,
+      "relaxed": 588,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261129,
+      "n": 31,
+      "cost": 198,
+      "dijkstra": 770,
+      "manhattan": 756,
+      "relaxed": 522,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261130,
+      "n": 31,
+      "cost": 218,
+      "dijkstra": 749,
+      "manhattan": 732,
+      "relaxed": 649,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261131,
+      "n": 31,
+      "cost": 215,
+      "dijkstra": 772,
+      "manhattan": 767,
+      "relaxed": 587,
+      "preprocessing": 961
+    },
+    {
+      "seed": 20261132,
+      "n": 31,
+      "cost": 202,
+      "dijkstra": 766,
+      "manhattan": 755,
+      "relaxed": 576,
+      "preprocessing": 961
+    }
+  ],
+  "summary": {
+    "dijkstra": {
+      "mean": 761.55,
+      "sd": 17.975055815739417
+    },
+    "manhattan": {
+      "mean": 756.4,
+      "sd": 19.046756872717754
+    },
+    "relaxed": {
+      "mean": 622.65,
+      "sd": 61.12650816135337
+    },
+    "preprocessing": {
+      "mean": 961,
+      "sd": 0.0
+    }
+  }
 }
